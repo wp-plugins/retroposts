@@ -7,11 +7,11 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-RetroPosts creates a dashboard widget that displays past blog posts.
+Historian shows you a quick glimpse of this week in your site's history.
 
 == Description == 
 
-It's easy to forget about the great blog posts you've written in the past. This plugin surfaces post from the current week in your blog's history. 
+It's easy to forget about the great blog posts you've written in the past. Historian surfaces post from the current week in your blog's history. You can display these posts in a sidebar widget or simply view them on your dashboard
 
 Feature requests and ideas welcome: ryan.neudorf@gmail.com
 
