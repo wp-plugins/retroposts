@@ -3,7 +3,7 @@
 Plugin Name: Historian
 Plugin URI: https://github.com/ohryan/RetroPosts
 Description: Historian surfaces old blog posts on your dashboard and as a sidebar widget.
-Version: 1.0
+Version: 1.0.1
 Author: Ryan Neudorf
 Author URI: http://ohryan.ca/
 License: GPLv2 or later
